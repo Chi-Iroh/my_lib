@@ -1,2 +1,2 @@
-# my_printf
-Implementing printf functions family using only write, malloc and free.
+# my_lib
+Implementing miscellaneous functions in C.
